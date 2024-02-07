@@ -9,6 +9,10 @@ Latitude vs. Temperature
 Latitude vs. Humidity
 Latitude vs. Cloudiness
 Latitude vs. Wind Speed
+And last separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude) to calculate the liner regression for each.
+
+Part 2: VacationPy
+Show how  weather data helps to plan future vacations. Use Geoapify API.
 
 
-While working on this module, I used Google, Xpert Learning Assistant, Chat GPT, tutor sessions, and some codes from lessons' activities which helped me build and run the code.
+While working on this module, I used Google, Xpert Learning Assistant, Chat GPT, and some codes from lessons' activities which helped me build and run the code.
